@@ -70,4 +70,7 @@ PortedMoss - PortedMoss - Years Ago -SLC50- - 07 Chayko
 PortedMoss - PortedMoss - Years Ago -SLC50- - 08 Spoxom
 PortedMoss - PortedMoss - Years Ago -SLC50- - 09 Tropic
 PortedMoss - PortedMoss - Years Ago -SLC50- - 10 Summer
+
+https://shroombab.bandcamp.com/album/we-killed-privacy-remix-lp
+Shroombab + Remixers - We Killed Privacy Remix LP - 08 We Killed Privacy (Freizeitlärm Remix)
 ```
